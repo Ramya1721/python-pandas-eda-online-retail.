@@ -53,6 +53,3 @@ Each visualisation includes a title, labelled axes, and an interpretation.
 
 ## Project Outcome
 This project demonstrates practical skills in data exploration, data quality assessment, descriptive statistics, and visualisation using Python.
-
-## Author
-Created as a Python and Pandas EDA project to practise data analysis skills.
