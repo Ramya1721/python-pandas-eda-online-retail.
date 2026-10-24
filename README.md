@@ -7,7 +7,7 @@ This project performs Exploratory Data Analysis (EDA) on the Online Retail datas
 - **Name:** Online Retail Dataset
 - **Rows:** 541,909
 - **Columns:** 8
-- **Source:** [Online Retail Dataset – Kaggle](https://www.kaggle.com/datasets)
+- **Source:** [Online Retail Dataset – Kaggle](https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset)
 - **Features:** InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country
 
 ## Objectives
